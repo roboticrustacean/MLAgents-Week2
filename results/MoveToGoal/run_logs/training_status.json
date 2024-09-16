@@ -1,0 +1,56 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 74340,
+                "file_path": "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-74340.onnx",
+                "reward": null,
+                "creation_time": 1726472808.8755176,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-74340.pt"
+                ]
+            },
+            {
+                "steps": 137456,
+                "file_path": "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-137456.onnx",
+                "reward": null,
+                "creation_time": 1726473095.9062054,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-137456.pt"
+                ]
+            },
+            {
+                "steps": 190619,
+                "file_path": "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-190619.onnx",
+                "reward": 1.0,
+                "creation_time": 1726473491.3865595,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-190619.pt"
+                ]
+            },
+            {
+                "steps": 204203,
+                "file_path": "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-204203.onnx",
+                "reward": 1.0,
+                "creation_time": 1726474124.095147,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-204203.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 204203,
+            "file_path": "results\\MoveToGoal\\MoveToGoal.onnx",
+            "reward": 1.0,
+            "creation_time": 1726474124.095147,
+            "auxillary_file_paths": [
+                "results\\MoveToGoal\\MoveToGoal\\MoveToGoal-204203.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.0"
+    }
+}
